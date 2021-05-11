@@ -1,0 +1,554 @@
+{
+  "2021-03-28": {
+    "time_sheet_details": {
+      "OHTA": {
+        "timings": [
+          {
+            "date": "2021-03-29",
+            "in_time": "07:58:00",
+            "out_time": "12:02:00"
+          },
+          {
+            "date":"2021-03-29",
+            "in_time": "13:00:00",
+            "out_time": "16:00:00"
+          },
+          {
+            "date": "2021-04-01",
+            "in_time": "09:00:00",
+            "out_time": "13:00:00"
+          },
+          {
+            "date":"2021-04-01",
+            "in_time": "14:00:00",
+            "out_time": "18:00:00"
+          },
+          {
+            "date": "2021-04-02",
+            "in_time": "09:00:00",
+            "out_time": "12:30:00"
+          },
+          {
+            "date":"2021-04-02",
+            "in_time": "13:30:00",
+            "out_time": "18:05:00",
+            "is_updated": true
+          }
+        ],
+        "total": {
+          "total_hrs_by_date": [
+            {
+              "date": "2021-03-29",
+              "total_hrs": 7
+            },
+            {
+              "date": "2021-04-01",
+              "total_hrs": 8
+            },
+            {
+              "date": "2021-04-02",
+              "total_hrs": 8.05
+            }
+          ],
+          "total": 23.05
+        }
+      },
+      "CLA": {
+        "timings": [
+          {
+            "date": "2021-03-30",
+            "in_time": "09:00:00",
+            "out_time": "13:00:00"
+          },
+          {
+            "date": "2021-03-30",
+            "in_time": "14:00:00",
+            "out_time": "18:00:00"
+          }
+        ],
+        "total": {
+          "total_hrs_by_date": [
+            {
+              "date": "2021-03-30",
+              "total_hrs": 8
+            }
+          ],
+          "total": 8
+        }
+      },
+      "HOLIDAY": {},
+      "PTO": {},
+      "total": {
+        "total_hrs_by_date": [
+          {
+            "date": "2021-03-29",
+            "total_hrs": 7
+          },
+          {
+            "date": "2021-03-30",
+            "total_hrs": 8
+          },
+          {
+            "date": "2021-04-01",
+            "total_hrs": 8
+          },
+          {
+            "date": "2021-04-02",
+            "total_hrs": 8.05
+          },
+          {
+            "date": "2021-03-29",
+            "total_hrs": 7
+          }
+        ],
+        "total": 31.05
+      }
+    }
+  },
+  "2021-04-04": {
+    "time_sheet_details": {
+      "OHTA": {
+        "timings": [
+          {
+            "date": "2021-04-04",
+            "in_time": "07:58:00",
+            "out_time": "12:02:00"
+          },
+          {
+            "date":"2021-04-04",
+            "in_time": "13:00:00",
+            "out_time": "16:00:00"
+          },
+          {
+            "date": "2021-04-06",
+            "in_time": "09:00:00",
+            "out_time": "13:00:00"
+          },
+          {
+            "date":"2021-04-06",
+            "in_time": "14:00:00",
+            "out_time": "18:00:00"
+          },
+          {
+            "date": "2021-04-07",
+            "in_time": "09:00:00",
+            "out_time": "12:30:00"
+          },
+          {
+            "date":"2021-04-07",
+            "in_time": "13:30:00",
+            "out_time": "18:05:00",
+            "is_updated": true
+          }
+        ],
+        "total": {
+          "total_hrs_by_date": [
+            {
+              "date": "2021-04-04",
+              "total_hrs": 7
+            },
+            {
+              "date": "2021-04-06",
+              "total_hrs": 8
+            },
+            {
+              "date": "2021-04-07",
+              "total_hrs": 8.05
+            }
+          ],
+          "total": 23.05
+        }
+      },
+      "CLA": {
+        "timings": [
+          {
+            "date": "2021-04-05",
+            "in_time": "09:00:00",
+            "out_time": "13:00:00"
+          },
+          {
+            "date": "2021-04-05",
+            "in_time": "14:00:00",
+            "out_time": "18:00:00"
+          }
+        ],
+        "total": {
+          "total_hrs_by_date": [
+            {
+              "date": "2021-04-05",
+              "total_hrs": 8
+            }
+          ],
+          "total": 8
+        }
+      },
+      "HOLIDAY": {},
+      "PTO": {},
+      "total": {
+        "total_hrs_by_date": [
+          {
+            "date": "2021-04-04",
+            "total_hrs": 7
+          },
+          {
+            "date": "2021-04-05",
+            "total_hrs": 8
+          },
+          {
+            "date": "2021-04-06",
+            "total_hrs": 8
+          },
+          {
+            "date": "2021-04-07",
+            "total_hrs": 8.05
+          }
+        ],
+        "total": 31.05
+      }
+    }
+  },
+  "2021-04-11": {
+    "time_sheet_details": {
+      "OHTA": {
+        "timings": [
+          {
+            "date": "2021-04-13",
+            "in_time": "07:58:00",
+            "out_time": "12:02:00"
+          },
+          {
+            "date":"2021-04-13",
+            "in_time": "13:00:00",
+            "out_time": "16:00:00"
+          },
+          {
+            "date": "2021-04-15",
+            "in_time": "09:00:00",
+            "out_time": "13:00:00"
+          },
+          {
+            "date":"2021-04-15",
+            "in_time": "14:00:00",
+            "out_time": "18:00:00"
+          }
+        ],
+        "total": {
+          "total_hrs_by_date": [
+            {
+              "date": "2021-04-13",
+              "total_hrs": 7
+            },
+            {
+              "date": "2021-04-15",
+              "total_hrs": 8
+            }
+          ],
+          "total": 15
+        }
+      },
+      "CLA": {
+        "timings": [
+          {
+            "date": "2021-04-17",
+            "in_time": "09:00:00",
+            "out_time": "13:00:00"
+          },
+          {
+            "date": "2021-04-17",
+            "in_time": "14:00:00",
+            "out_time": "18:00:00"
+          }
+        ],
+        "total": {
+          "total_hrs_by_date": [
+            {
+              "date": "2021-04-17",
+              "total_hrs": 8
+            }
+          ],
+          "total": 8
+        }
+      },
+      "HOLIDAY": {},
+      "PTO": {},
+      "total": {
+        "total_hrs_by_date": [
+          {
+            "date": "2021-04-13",
+            "total_hrs": 7
+          },
+          {
+            "date": "2021-04-15",
+            "total_hrs": 8
+          },
+          {
+            "date": "2021-04-17",
+            "total_hrs": 8
+          }
+        ],
+        "total": 23
+      }
+    }
+  },
+  "2021-04-18": {},
+  "2021-04-25": {
+    "time_sheet_details": {
+      "OHTA": {
+        "timings": [
+          {
+            "date": "2021-04-25",
+            "in_time": "07:58:00",
+            "out_time": "12:02:00"
+          },
+          {
+            "date":"2021-04-25",
+            "in_time": "13:00:00",
+            "out_time": "16:00:00"
+          },
+          {
+            "date": "2021-04-26",
+            "in_time": "09:00:00",
+            "out_time": "13:00:00"
+          },
+          {
+            "date":"2021-04-26",
+            "in_time": "14:00:00",
+            "out_time": "18:00:00"
+          },
+          {
+            "date": "2021-04-27",
+            "in_time": "09:00:00",
+            "out_time": "12:30:00"
+          },
+          {
+            "date":"2021-04-27",
+            "in_time": "13:30:00",
+            "out_time": "18:05:00",
+            "is_updated": true
+          }
+        ],
+        "total": {
+          "total_hrs_by_date": [
+            {
+              "date": "2021-04-25",
+              "total_hrs": 7
+            },
+            {
+              "date": "2021-04-26",
+              "total_hrs": 8
+            },
+            {
+              "date": "2021-04-27",
+              "total_hrs": 8.05
+            }
+          ],
+          "total": 23.05
+        }
+      },
+      "CLA": {
+        "timings": [
+          {
+            "date": "2021-04-29",
+            "in_time": "09:00:00",
+            "out_time": "13:00:00"
+          },
+          {
+            "date": "2021-04-29",
+            "in_time": "14:00:00",
+            "out_time": "18:00:00"
+          }
+        ],
+        "total": {
+          "total_hrs_by_date": [
+            {
+              "date": "2021-04-29",
+              "total_hrs": 8
+            }
+          ],
+          "total": 8
+        }
+      },
+      "HOLIDAY": {},
+      "PTO": {},
+      "total": {
+        "total_hrs_by_date": [
+          {
+            "date": "2021-04-25",
+            "total_hrs": 7
+          },
+          {
+            "date": "2021-04-26",
+            "total_hrs": 8
+          },
+          {
+            "date": "2021-04-27",
+            "total_hrs": 8.05
+          },
+          {
+            "date": "2021-04-29",
+            "total_hrs": 8
+          }
+        ],
+        "total": 31.05
+      }
+    }
+  },
+  "2021-05-02": {
+    "time_sheet_details": {
+      "OHTA": {
+        "timings": [
+          {
+            "date": "2021-05-03",
+            "in_time": "07:58:00",
+            "out_time": "12:02:00"
+          },
+          {
+            "date":"2021-05-03",
+            "in_time": "13:00:00",
+            "out_time": "16:00:00"
+          },
+          {
+            "date": "2021-05-04",
+            "in_time": "09:00:00",
+            "out_time": "13:00:00"
+          },
+          {
+            "date":"2021-05-04",
+            "in_time": "14:00:00",
+            "out_time": "18:00:00"
+          },
+          {
+            "date": "2021-05-06",
+            "in_time": "09:00:00",
+            "out_time": "12:30:00"
+          },
+          {
+            "date":"2021-05-06",
+            "in_time": "13:30:00",
+            "out_time": "18:05:00"
+          },
+          {
+            "date": "2021-05-08",
+            "in_time": "09:00:00",
+            "out_time": "12:30:00"
+          },
+          {
+            "date":"2021-05-08",
+            "in_time": "13:30:00",
+            "out_time": "18:05:00"
+          }
+        ],
+        "total": {
+          "total_hrs_by_date": [
+            {
+              "date": "2021-05-03",
+              "total_hrs": 7
+            },
+            {
+              "date": "2021-05-04",
+              "total_hrs": 8
+            },
+            {
+              "date": "2021-05-06",
+              "total_hrs": 8.05
+            },
+            {
+              "date": "2021-05-08",
+              "total_hrs": 8.05
+            }
+          ],
+          "total": 31.10
+        }
+      },
+      "CLA": {
+        "timings": [
+          {
+            "date": "2021-05-07",
+            "in_time": "09:00:00",
+            "out_time": "13:00:00"
+          },
+          {
+            "date": "2021-05-07",
+            "in_time": "14:00:00",
+            "out_time": "18:00:00"
+          }
+        ],
+        "total": {
+          "total_hrs_by_date": [
+            {
+              "date": "2021-05-07",
+              "total_hrs": 8
+            }
+          ],
+          "total": 8
+        }
+      },
+      "HOLIDAY": {},
+      "PTO": {},
+      "total": {
+        "total_hrs_by_date": [
+          {
+            "date": "2021-05-03",
+            "total_hrs": 7
+          },
+          {
+            "date": "2021-05-04",
+            "total_hrs": 8
+          },
+          {
+            "date": "2021-05-06",
+            "total_hrs": 8.05
+          },
+          {
+            "date": "2021-05-07",
+            "total_hrs": 8
+          },
+          {
+            "date": "2021-05-08",
+            "total_hrs": 8.05
+          }
+        ],
+        "total": 39.10
+      }
+    }
+  },
+  "2021-05-09": {
+    "time_sheet_details": {
+      "OHTA": {},
+      "CLA": {
+        "timings": [
+          {
+            "date": "2021-05-10",
+            "in_time": "09:00:00",
+            "out_time": "13:00:00"
+          },
+          {
+            "date": "2021-05-10",
+            "in_time": "14:00:00",
+            "out_time": "17:00:00"
+          }
+        ],
+        "total": {
+          "total_hrs_by_date": [
+            {
+              "date": "2021-05-10",
+              "total_hrs": 7
+            }
+          ],
+          "total": 7
+        }
+      },
+      "HOLIDAY": {},
+      "PTO": {},
+      "total": {
+        "total_hrs_by_date": [
+          {
+            "date": "2021-05-10",
+            "total_hrs": 7
+          }
+        ],
+        "total": 7
+      }
+    }
+  }
+}
